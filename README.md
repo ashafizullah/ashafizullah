@@ -15,15 +15,20 @@
 
 ### Products I've shipped
 
+**[EIAI](https://eiai.my.id)** — a digital assistant for the whole household.
+Family finances (wallets, budgets, debts, subscriptions), health tracking (lab
+results, cycles, pregnancy), productivity (habits, kanban, pomodoro), a family
+tree and a password vault, in one place. Vue 3, Bun and Hono, PostgreSQL.
+
 **[Bisa Mandarin](https://bisamandarin.com)** — 会中文, an AI Mandarin learning
-partner. Practise conversation, grammar and vocabulary without the fear of
+partner: practise conversation, grammar and vocabulary without the fear of
 getting it wrong in front of a person. Laravel on the web, Flutter on mobile and
 desktop, a browser extension, and a realtime voice backend on Gemini.
 
 **[Tamu Undangan](https://tamuundangan.com)** — guest management and digital
-check-in for weddings, aqiqah, khitanan and reunions. QR check-in, seating and
-reporting, with exports the family actually asks for. Hono and Drizzle on the
-backend, Vue and PrimeVue on the front, Flutter for scanning at the door.
+check-in for weddings, aqiqah, khitanan and reunions. QR check-in at the door,
+seating, reporting and the exports families actually ask for. Hono and Drizzle,
+Vue and PrimeVue, Flutter for the scanner.
 
 **[Keruani Kabar](https://keruanikabar.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.keruanikabar.app) —
 a community app for Muara Enim. Neighbours post local news, warnings and things
@@ -37,11 +42,8 @@ verify a WhatsApp number really belongs to your user, without ever messaging a
 stranger. The usual approach texts a code *to* the number, which is the pattern
 that gets service numbers banned, and it only proves the number someone *typed*
 is reachable. This inverts the flow, so the number is read off the message
-envelope and cannot be mistyped or borrowed.
-
-Extracted from Keruani Kabar after learning the hard parts in production:
-senders whose numbers WhatsApp hides, group ids that pass for phone numbers, and
-replies that must never land in a group. Zero dependencies, MIT.
+envelope and cannot be mistyped or borrowed. Extracted from Keruani Kabar after
+learning the hard parts in production. Zero dependencies, MIT.
 
 **[promo-video-creator](https://github.com/ashafizullah/promo-video-creator)** —
 a Claude Code skill that turns a brief into a finished promotional video.
@@ -51,7 +53,7 @@ Remotion for the render, ElevenLabs for the voiceover.
 
 | | |
 | --- | --- |
-| **Backend** | Go · Node.js / Hono · Laravel · C#/.NET · Python |
+| **Backend** | Go · Bun / Hono · Node.js · Laravel · C#/.NET · Python |
 | **Web** | TypeScript · Vue · PrimeVue |
 | **Mobile & desktop** | Flutter · React Native / Expo |
 | **Data & infra** | PostgreSQL · Drizzle · Docker · GitHub Actions |

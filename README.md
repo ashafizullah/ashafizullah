@@ -20,12 +20,14 @@ Family finances (wallets, budgets, debts, subscriptions), health tracking (lab
 results, cycles, pregnancy), productivity (habits, kanban, pomodoro), a family
 tree and a password vault, in one place. Vue 3, Bun and Hono, PostgreSQL.
 
-**[Bisa Mandarin](https://bisamandarin.com)** — 会中文, an AI Mandarin learning
+**[Bisa Mandarin](https://bisamandarin.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.bisamandarin.app) —
+会中文, an AI Mandarin learning
 partner: practise conversation, grammar and vocabulary without the fear of
 getting it wrong in front of a person. Laravel on the web, Flutter on mobile and
 desktop, a browser extension, and a realtime voice backend on Gemini.
 
-**[Tamu Undangan](https://tamuundangan.com)** — guest management and digital
+**[Tamu Undangan](https://tamuundangan.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.tamuundangan.app) —
+guest management and digital
 check-in for weddings, aqiqah, khitanan and reunions. QR check-in at the door,
 seating, reporting and the exports families actually ask for. Hono and Drizzle,
 Vue and PrimeVue, Flutter for the scanner.

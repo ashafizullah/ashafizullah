@@ -35,6 +35,11 @@ a community app for Muara Enim. Neighbours post local news, warnings and things
 for sale, and a post can be broadcast on a schedule into the WhatsApp groups
 people already live in. Go, PostgreSQL, React Native, Vue.
 
+Alongside these, a run of freelance and client projects that will never get a
+public link — internal systems, dashboards and line-of-business apps built for
+the people who use them rather than for a portfolio. Happy to walk through any
+of it in a conversation.
+
 ### Open source
 
 **[wa-confirm](https://github.com/ashafizullah/wa-confirm)** · [npm](https://www.npmjs.com/package/wa-confirm) —

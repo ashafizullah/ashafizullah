@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ashafizullah.com">Website</a> ·
   <a href="https://www.linkedin.com/in/adamshafizullah/">LinkedIn</a> ·
-  <a href="https://www.npmjs.com/package/wa-confirm">npm</a>
+  <a href="https://www.npmjs.com/~ashafizullah">npm</a>
 </p>
 
 ---
@@ -52,6 +52,18 @@ is reachable. This inverts the flow, so the number is read off the message
 envelope and cannot be mistyped or borrowed. Extracted from Keruani Kabar after
 learning the hard parts in production. Zero dependencies, MIT.
 
+**[dsh-telegram](https://github.com/ashafizullah/dsh-telegram)** · [npm](https://www.npmjs.com/package/@ashafizullah/dsh-telegram) —
+run a DeepSeek Harness coding agent from Telegram. The agent lives on your
+machine and you usually do not, and the plugin that already existed dropped the
+two things that matter most over a chat: the agent writes markdown, and it asks
+questions it needs answered before it can carry on. Telegram has parsed
+markdown itself since Bot API 10.1, so replies go through almost verbatim —
+tables as tables — and questions and tool approvals arrive as buttons you can
+press from a phone. Pictures work even where the model cannot see: a vision
+model reads the image in a throwaway session and only its text joins the
+conversation, and where no model is configured at all it falls back to local
+OCR. Fifteen commands, 842 tests, two dependencies, MIT.
+
 **[promo-video-creator](https://github.com/ashafizullah/promo-video-creator)** —
 a Claude Code skill that turns a brief into a finished promotional video.
 Remotion for the render, ElevenLabs for the voiceover.
@@ -64,7 +76,7 @@ Remotion for the render, ElevenLabs for the voiceover.
 | **Web** | TypeScript · Vue · PrimeVue |
 | **Mobile & desktop** | Flutter · React Native / Expo |
 | **Data & infra** | PostgreSQL · Drizzle · Docker · GitHub Actions |
-| **AI** | Gemini · realtime voice · Claude Code skills |
+| **AI** | Gemini · realtime voice · Claude Code skills · DeepSeek Harness plugins |
 
 On GitHub since 2017, across whichever language the problem happened to need.
 

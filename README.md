@@ -68,6 +68,15 @@ OCR. Fifteen commands, 842 tests, two dependencies, MIT.
 a Claude Code skill that turns a brief into a finished promotional video.
 Remotion for the render, ElevenLabs for the voiceover.
 
+**[hermes-mimo-websearch](https://github.com/ashafizullah/hermes-mimo-websearch)** · [npm](https://www.npmjs.com/package/hermes-mimo-websearch) —
+Hermes Agent plugin for Xiaomi MiMo native web search API. Uses MiMo's
+built-in `web_search` tool for server-side search with structured results.
+Supports regular API keys (not Token Plan). MIT.
+
+**[hermes-deepseek-websearch](https://github.com/ashafizullah/hermes-deepseek-websearch)** · [npm](https://www.npmjs.com/package/hermes-deepseek-websearch) —
+Hermes Agent plugin for DeepSeek native web search API. Uses DeepSeek's
+Responses API with server-side search at ~$0.0005 per query. MIT.
+
 ### What I work with
 
 | | |

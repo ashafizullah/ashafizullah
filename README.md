@@ -76,6 +76,12 @@ Supports regular API keys (not Token Plan). MIT.
 **[hermes-deepseek-websearch](https://github.com/ashafizullah/hermes-deepseek-websearch)** · [npm](https://www.npmjs.com/package/hermes-deepseek-websearch) —
 Hermes Agent plugin for DeepSeek native web search API. Uses DeepSeek's
 Responses API with server-side search at ~$0.0005 per query. MIT.
+**[hermes-monid-websearch](https://github.com/ashafizullah/hermes-monid-websearch)** · [npm](https://www.npmjs.com/package/hermes-monid-websearch) —
+Hermes Agent plugin for Monid/TinyFish free web search & fetch API. Uses Monid's
+agent infrastructure with TinyFish for 100% free search and page extraction —
+no per-call charges, just a free Monid API key. MIT.
+
+
 
 ### What I work with
 

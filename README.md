@@ -13,6 +13,19 @@
 
 ---
 
+### 🚀 Latest open source
+
+**[Wahana](https://github.com/ashafizullah/wahana)** — a cross-platform desktop client for
+[WAHA](https://waha.devlike.pro) (WhatsApp HTTP API). Chats, groups, stories, scheduled messages,
+broadcasts and bring-your-own-key AI translation, in a ~10 MB app for macOS and Windows.
+Tauri 2, React, TypeScript, Rust, SQLite.
+[Download](https://github.com/ashafizullah/wahana/releases/latest) ·
+![release](https://img.shields.io/github/v/release/ashafizullah/wahana?display_name=tag&sort=semver)
+![downloads](https://img.shields.io/github/downloads/ashafizullah/wahana/total)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+
+---
+
 ### Products I've shipped
 
 **[EIAI](https://eiai.my.id)** — a digital assistant for the whole household.

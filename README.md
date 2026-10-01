@@ -1,8 +1,5 @@
-<h1 align="center">Adam Suchi Hafizullah</h1>
-
 <p align="center">
-  Software engineer in Indonesia.<br>
-  I ship products end to end — backend, web, mobile, desktop — and open-source the parts that outlive the project.
+  <img src="assets/chat.svg" width="760" alt="Chat with Adam Suchi Hafizullah: a software engineer in Indonesia who ships products end to end and open-sources the parts that outlive the project. Latest: rpt-mcp.">
 </p>
 
 <p align="center">
@@ -11,9 +8,7 @@
   <a href="https://www.npmjs.com/~ashafizullah">npm</a>
 </p>
 
----
-
-### 🚀 Latest open source
+> 💬 **Send me the links?** <sub>09:44</sub>
 
 **[rpt-mcp](https://github.com/ashafizullah/rpt-mcp)** — an MCP server that lets AI assistants
 (Claude Code, Claude Desktop, Cursor) read and edit SAP Crystal Reports `.rpt` files. The format is
@@ -34,9 +29,9 @@ Tauri 2, React, TypeScript, Rust, SQLite.
 ![downloads](https://img.shields.io/github/downloads/ashafizullah/wahana/total)
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
----
+<p align="right"><sub>09:44 ✓✓</sub></p>
 
-### Products I've shipped
+> 💬 **What have you shipped?** <sub>09:46</sub>
 
 **[EIAI](https://eiai.my.id)** — a digital assistant for the whole household.
 Family finances (wallets, budgets, debts, subscriptions), health tracking (lab
@@ -65,7 +60,9 @@ public link — internal systems, dashboards and line-of-business apps built for
 the people who use them rather than for a portfolio. Happy to walk through any
 of it in a conversation.
 
-### Open source
+<p align="right"><sub>09:47 ✓✓</sub></p>
+
+> 💬 **And the open source stuff?** <sub>09:49</sub>
 
 **[wa-confirm](https://github.com/ashafizullah/wa-confirm)** · [npm](https://www.npmjs.com/package/wa-confirm) —
 verify a WhatsApp number really belongs to your user, without ever messaging a
@@ -110,9 +107,9 @@ Hermes Agent plugin for Monid/TinyFish free web search & fetch API. Uses Monid's
 agent infrastructure with TinyFish for 100% free search and page extraction —
 no per-call charges, just a free Monid API key. MIT.
 
+<p align="right"><sub>09:51 ✓✓</sub></p>
 
-
-### What I work with
+> 💬 **What do you work with?** <sub>09:52</sub>
 
 | | |
 | --- | --- |
@@ -124,7 +121,13 @@ no per-call charges, just a free Monid API key. MIT.
 
 On GitHub since 2017, across whichever language the problem happened to need.
 
-### Elsewhere
+<p align="right"><sub>09:52 ✓✓</sub></p>
+
+> 💬 **Where can I find you?** <sub>09:53</sub>
 
 Writing at [ashafizullah.com](https://ashafizullah.com) · Reach me on
 [LinkedIn](https://www.linkedin.com/in/adamshafizullah/)
+
+<p align="right"><sub>09:53 ✓✓</sub></p>
+
+<p align="center"><sub><i>Adam is typing…</i></sub></p>

@@ -18,6 +18,7 @@ automatic backups, guarded deletes and export to PDF or images so the agent can 
 C#, .NET Framework 4.8, Windows.
 [Download](https://github.com/ashafizullah/rpt-mcp/releases/latest) ·
 ![release](https://img.shields.io/github/v/release/ashafizullah/rpt-mcp?display_name=tag&sort=semver)
+![downloads](https://img.shields.io/github/downloads/ashafizullah/rpt-mcp/total)
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
 **[Wahana](https://github.com/ashafizullah/wahana)** — a cross-platform desktop client for

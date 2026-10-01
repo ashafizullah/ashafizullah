@@ -15,6 +15,16 @@
 
 ### 🚀 Latest open source
 
+**[rpt-mcp](https://github.com/ashafizullah/rpt-mcp)** — an MCP server that lets AI assistants
+(Claude Code, Claude Desktop, Cursor) read and edit SAP Crystal Reports `.rpt` files. The format is
+binary, so an agent cannot touch it as text; this wraps the official Crystal Reports .NET runtime and
+exposes safe, structured edits — formulas, parameters, groups, sections, objects, datasources — with
+automatic backups, guarded deletes and export to PDF or images so the agent can see its own layout.
+C#, .NET Framework 4.8, Windows.
+[Download](https://github.com/ashafizullah/rpt-mcp/releases/latest) ·
+![release](https://img.shields.io/github/v/release/ashafizullah/rpt-mcp?display_name=tag&sort=semver)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+
 **[Wahana](https://github.com/ashafizullah/wahana)** — a cross-platform desktop client for
 [WAHA](https://waha.devlike.pro) (WhatsApp HTTP API). Chats, groups, stories, scheduled messages,
 broadcasts and bring-your-own-key AI translation, in a ~10 MB app for macOS and Windows.

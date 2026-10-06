@@ -1,0 +1,125 @@
+<p align="center">
+  <img src="assets/chat.svg" width="760" alt="Chat with Adam Suchi Hafizullah: a software engineer in Indonesia who ships products end to end and open-sources the parts that outlive the project. Latest: rpt-mcp.">
+</p>
+
+<p align="center">
+  <a href="https://ashafizullah.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/adamshafizullah/">LinkedIn</a> ·
+  <a href="https://www.npmjs.com/~ashafizullah">npm</a>
+</p>
+
+> 💬 **Send me the links?** <sub>09:44</sub>
+
+**[rpt-mcp](https://github.com/ashafizullah/rpt-mcp)** — an MCP server that lets AI assistants
+(Claude Code, Claude Desktop, Cursor) read and edit SAP Crystal Reports `.rpt` files. The format is
+binary, so an agent cannot touch it as text; this wraps the official Crystal Reports .NET runtime and
+exposes safe, structured edits — formulas, parameters, groups, sections, objects, datasources — with
+automatic backups, guarded deletes and export to PDF or images so the agent can see its own layout.
+C#, .NET Framework 4.8, Windows.
+[Download](https://github.com/ashafizullah/rpt-mcp/releases/latest) ·
+![release](https://img.shields.io/github/v/release/ashafizullah/rpt-mcp?display_name=tag&sort=semver)
+![downloads](https://img.shields.io/github/downloads/ashafizullah/rpt-mcp/total)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+
+<p align="right"><sub>09:44 ✓✓</sub></p>
+
+> 💬 **What have you shipped?** <sub>09:46</sub>
+
+**[EIAI](https://eiai.my.id)** — a digital assistant for the whole household.
+Family finances (wallets, budgets, debts, subscriptions), health tracking (lab
+results, cycles, pregnancy), productivity (habits, kanban, pomodoro), a family
+tree and a password vault, in one place. Vue 3, Bun and Hono, PostgreSQL.
+
+**[Bisa Mandarin](https://bisamandarin.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.bisamandarin.app) —
+会中文, an AI Mandarin learning
+partner: practise conversation, grammar and vocabulary without the fear of
+getting it wrong in front of a person. Laravel on the web, Flutter on mobile and
+desktop, a browser extension, and a realtime voice backend on Gemini.
+
+**[Tamu Undangan](https://tamuundangan.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.tamuundangan.app) —
+guest management and digital
+check-in for weddings, aqiqah, khitanan and reunions. QR check-in at the door,
+seating, reporting and the exports families actually ask for. Hono and Drizzle,
+Vue and PrimeVue, Flutter for the scanner.
+
+**[Keruani Kabar](https://keruanikabar.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.keruanikabar.app) —
+a community app for Muara Enim. Neighbours post local news, warnings and things
+for sale, and a post can be broadcast on a schedule into the WhatsApp groups
+people already live in. Go, PostgreSQL, React Native, Vue.
+
+Alongside these, a run of freelance and client projects that will never get a
+public link — internal systems, dashboards and line-of-business apps built for
+the people who use them rather than for a portfolio. Happy to walk through any
+of it in a conversation.
+
+<p align="right"><sub>09:47 ✓✓</sub></p>
+
+> 💬 **And the open source stuff?** <sub>09:49</sub>
+
+**[wa-confirm](https://github.com/ashafizullah/wa-confirm)** · [npm](https://www.npmjs.com/package/wa-confirm) —
+verify a WhatsApp number really belongs to your user, without ever messaging a
+stranger. The usual approach texts a code *to* the number, which is the pattern
+that gets service numbers banned, and it only proves the number someone *typed*
+is reachable. This inverts the flow, so the number is read off the message
+envelope and cannot be mistyped or borrowed. Extracted from Keruani Kabar after
+learning the hard parts in production. Zero dependencies, MIT.
+
+**[dsh-telegram](https://github.com/ashafizullah/dsh-telegram)** · [npm](https://www.npmjs.com/package/@ashafizullah/dsh-telegram) —
+run a DeepSeek Harness coding agent from Telegram. The agent lives on your
+machine and you usually do not, and the plugin that already existed dropped the
+two things that matter most over a chat: the agent writes markdown, and it asks
+questions it needs answered before it can carry on. Telegram has parsed
+markdown itself since Bot API 10.1, so replies go through almost verbatim —
+tables as tables — and questions and tool approvals arrive as buttons you can
+press from a phone. Pictures work even where the model cannot see: a vision
+model reads the image in a throwaway session and only its text joins the
+conversation, and where no model is configured at all it falls back to local
+OCR. Fifteen commands, 842 tests, two dependencies, MIT.
+
+**[promo-video-creator](https://github.com/ashafizullah/promo-video-creator)** —
+a Claude Code skill that turns a brief into a finished promotional video.
+Remotion for the render, ElevenLabs for the voiceover.
+
+**[hermes-mimo-websearch](https://github.com/ashafizullah/hermes-mimo-websearch)** · [npm](https://www.npmjs.com/package/hermes-mimo-websearch) —
+Hermes Agent plugin for Xiaomi MiMo native web search API. Uses MiMo's
+built-in `web_search` tool for server-side search with structured results.
+Supports regular API keys (not Token Plan). MIT.
+
+**[hermes-deepseek-websearch](https://github.com/ashafizullah/hermes-deepseek-websearch)** · [npm](https://www.npmjs.com/package/hermes-deepseek-websearch) —
+Hermes Agent plugin for DeepSeek native web search API. Uses DeepSeek's
+Responses API with server-side search at ~$0.0005 per query. MIT.
+
+**[hermes-tinyfish-websearch](https://github.com/ashafizullah/hermes-tinyfish-websearch)** · [npm](https://www.npmjs.com/package/hermes-tinyfish-websearch) —
+Hermes Agent plugin for TinyFish native web search & fetch API. Direct connection
+to TinyFish — free search ($0/call, 30 req/min) and free fetch ($0/call, 150 URLs/min)
+with no middleman. MIT.
+
+**[hermes-monid-websearch](https://github.com/ashafizullah/hermes-monid-websearch)** · [npm](https://www.npmjs.com/package/hermes-monid-websearch) —
+Hermes Agent plugin for Monid/TinyFish free web search & fetch API. Uses Monid's
+agent infrastructure with TinyFish for 100% free search and page extraction —
+no per-call charges, just a free Monid API key. MIT.
+
+<p align="right"><sub>09:51 ✓✓</sub></p>
+
+> 💬 **What do you work with?** <sub>09:52</sub>
+
+| | |
+| --- | --- |
+| **Backend** | Go · Bun / Hono · Node.js · Laravel · C#/.NET · Python |
+| **Web** | TypeScript · Vue · PrimeVue |
+| **Mobile & desktop** | Flutter · React Native / Expo |
+| **Data & infra** | PostgreSQL · Drizzle · Docker · GitHub Actions |
+| **AI** | Gemini · realtime voice · Claude Code skills · DeepSeek Harness plugins |
+
+On GitHub since 2017, across whichever language the problem happened to need.
+
+<p align="right"><sub>09:52 ✓✓</sub></p>
+
+> 💬 **Where can I find you?** <sub>09:53</sub>
+
+Writing at [ashafizullah.com](https://ashafizullah.com) · Reach me on
+[LinkedIn](https://www.linkedin.com/in/adamshafizullah/)
+
+<p align="right"><sub>09:53 ✓✓</sub></p>
+
+<p align="center"><sub><i>Adam is typing…</i></sub></p>

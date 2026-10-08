@@ -1,125 +1,103 @@
-<p align="center">
-  <img src="assets/chat.svg" width="760" alt="Chat with Adam Suchi Hafizullah: a software engineer in Indonesia who ships products end to end and open-sources the parts that outlive the project. Latest: rpt-mcp.">
-</p>
+# 👋 I'm Adam
 
-<p align="center">
-  <a href="https://ashafizullah.com">Website</a> ·
-  <a href="https://www.linkedin.com/in/adamshafizullah/">LinkedIn</a> ·
-  <a href="https://www.npmjs.com/~ashafizullah">npm</a>
-</p>
+🇮🇩 **Indonesia** · 💻 **Software Engineer** · 🀄 **Building [Bisa Mandarin][bisamandarin]** · 🕌 **[Muslim mods for Claude Code][muslim-mods]**
 
-> 💬 **Send me the links?** <sub>09:44</sub>
+[![Go][badge-go]][github]
+[![TypeScript][badge-ts]][github]
+[![Vue][badge-vue]][github]
+[![Laravel][badge-laravel]][github]
+[![.NET][badge-dotnet]][github]
+[![Python][badge-python]][github]
+[![Flutter][badge-flutter]][github]
+[![React Native][badge-rn]][github]
+[![PostgreSQL][badge-pg]][github]
+[![Claude Code][badge-claude]][muslim-mods]
 
-**[rpt-mcp](https://github.com/ashafizullah/rpt-mcp)** — an MCP server that lets AI assistants
-(Claude Code, Claude Desktop, Cursor) read and edit SAP Crystal Reports `.rpt` files. The format is
-binary, so an agent cannot touch it as text; this wraps the official Crystal Reports .NET runtime and
-exposes safe, structured edits — formulas, parameters, groups, sections, objects, datasources — with
-automatic backups, guarded deletes and export to PDF or images so the agent can see its own layout.
-C#, .NET Framework 4.8, Windows.
-[Download](https://github.com/ashafizullah/rpt-mcp/releases/latest) ·
-![release](https://img.shields.io/github/v/release/ashafizullah/rpt-mcp?display_name=tag&sort=semver)
-![downloads](https://img.shields.io/github/downloads/ashafizullah/rpt-mcp/total)
-![license](https://img.shields.io/badge/license-MIT-green.svg)
+> Software engineer in Indonesia who ships products end to end and open-sources the parts that outlive the project. On GitHub since 2017, in whichever language the problem happens to need.
 
-<p align="right"><sub>09:44 ✓✓</sub></p>
+#### 🕌 **[Muslim mods for Claude Code][muslim-mods]** – Prayer times, adhkar, a daily ayah and a tasbih inside Claude Code, a reminder of the akhirah in every coding session.
 
-> 💬 **What have you shipped?** <sub>09:46</sub>
+## Products
 
-**[EIAI](https://eiai.my.id)** — a digital assistant for the whole household.
-Family finances (wallets, budgets, debts, subscriptions), health tracking (lab
-results, cycles, pregnancy), productivity (habits, kanban, pomodoro), a family
-tree and a password vault, in one place. Vue 3, Bun and Hono, PostgreSQL.
+- 🏠 **[EIAI][eiai]** – A digital assistant for the whole household: family finances, health, habits, a family tree and a password vault
+- 🀄 **[Bisa Mandarin][bisamandarin]** – 会中文, an AI Mandarin learning partner: conversation, grammar and vocabulary without the fear of mistakes ([Google Play][bisamandarin-play])
+- 💌 **[Tamu Undangan][tamuundangan]** – Guest management and QR check-in for weddings, aqiqah, khitanan and reunions ([Google Play][tamuundangan-play])
+- 📰 **[Keruani Kabar][keruanikabar]** – Community app for Muara Enim; local news broadcast into the WhatsApp groups people already use ([Google Play][keruanikabar-play])
 
-**[Bisa Mandarin](https://bisamandarin.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.bisamandarin.app) —
-会中文, an AI Mandarin learning
-partner: practise conversation, grammar and vocabulary without the fear of
-getting it wrong in front of a person. Laravel on the web, Flutter on mobile and
-desktop, a browser extension, and a realtime voice backend on Gemini.
+## Open source
 
-**[Tamu Undangan](https://tamuundangan.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.tamuundangan.app) —
-guest management and digital
-check-in for weddings, aqiqah, khitanan and reunions. QR check-in at the door,
-seating, reporting and the exports families actually ask for. Hono and Drizzle,
-Vue and PrimeVue, Flutter for the scanner.
+- 🕌 **[claude-code-muslim-mods][muslim-mods]** – Prayer times with Dhuha and Tahajud, adhkar, a daily ayah and a tasbih for Claude Code
+- 📊 **[rpt-mcp][rpt-mcp]** – MCP server that lets AI assistants read and edit SAP Crystal Reports `.rpt` files
+- ✅ **[wa-confirm][wa-confirm]** – Verify a WhatsApp number belongs to your user without ever messaging a stranger
+- ✈️ **[dsh-telegram][dsh-telegram]** – Run a DeepSeek Harness coding agent from Telegram, with rich markdown and approval buttons
+- 🛠️ **[cmdc-worker][cmdc-worker]** – Claude Code mod: Claude plans and reviews, Command Code implements, with a live progress pane
+- 🔎 **[jev-triage][jev-triage]** – Automated issue and PR triage for open-source maintainers
+- 🀄 **[hanzi-harbor][hanzi-harbor]** – Mandarin flashcards with spaced repetition on New HSK 3.0
+- 🎬 **[promo-video-creator][promo-video-creator]** – Claude Code skill that turns a brief into a promo video with Remotion and ElevenLabs
+- 🔍 **[hermes-monid-websearch][hermes-monid]** – Free web search and fetch for Hermes Agent via Monid/TinyFish
+- 🐟 **[hermes-tinyfish-websearch][hermes-tinyfish]** – Hermes Agent plugin for TinyFish free search and fetch
+- 🔍 **[hermes-mimo-websearch][hermes-mimo]** – Hermes Agent plugin for Xiaomi MiMo native web search
+- 🔍 **[hermes-deepseek-websearch][hermes-deepseek]** – Hermes Agent plugin for DeepSeek native web search
+- 🧅 **[kupas-bawang][kupas-bawang]** – 3D arcade game in three.js: peel the onion layer by layer before your eyes sting
 
-**[Keruani Kabar](https://keruanikabar.com)** · [Google Play](https://play.google.com/store/apps/details?id=com.keruanikabar.app) —
-a community app for Muara Enim. Neighbours post local news, warnings and things
-for sale, and a post can be broadcast on a schedule into the WhatsApp groups
-people already live in. Go, PostgreSQL, React Native, Vue.
+## Nowadays
 
-Alongside these, a run of freelance and client projects that will never get a
-public link — internal systems, dashboards and line-of-business apps built for
-the people who use them rather than for a portfolio. Happy to walk through any
-of it in a conversation.
+- **Building for coding agents** – Claude Code mods, MCP servers, skills and agent plugins
+- **Shipping products** – Bisa Mandarin, EIAI, Tamu Undangan and Keruani Kabar, web and mobile
+- **Client work** – Internal systems and line-of-business apps built for the people who use them
 
-<p align="right"><sub>09:47 ✓✓</sub></p>
+## Connect
 
-> 💬 **And the open source stuff?** <sub>09:49</sub>
+[![Website][badge-web]][website]
+[![LinkedIn][badge-linkedin]][linkedin]
+[![X][badge-x]][x]
+[![npm][badge-npm]][npm]
+[![GitHub][badge-gh]][github]
 
-**[wa-confirm](https://github.com/ashafizullah/wa-confirm)** · [npm](https://www.npmjs.com/package/wa-confirm) —
-verify a WhatsApp number really belongs to your user, without ever messaging a
-stranger. The usual approach texts a code *to* the number, which is the pattern
-that gets service numbers banned, and it only proves the number someone *typed*
-is reachable. This inverts the flow, so the number is read off the message
-envelope and cannot be mistyped or borrowed. Extracted from Keruani Kabar after
-learning the hard parts in production. Zero dependencies, MIT.
+<!-- Links -->
 
-**[dsh-telegram](https://github.com/ashafizullah/dsh-telegram)** · [npm](https://www.npmjs.com/package/@ashafizullah/dsh-telegram) —
-run a DeepSeek Harness coding agent from Telegram. The agent lives on your
-machine and you usually do not, and the plugin that already existed dropped the
-two things that matter most over a chat: the agent writes markdown, and it asks
-questions it needs answered before it can carry on. Telegram has parsed
-markdown itself since Bot API 10.1, so replies go through almost verbatim —
-tables as tables — and questions and tool approvals arrive as buttons you can
-press from a phone. Pictures work even where the model cannot see: a vision
-model reads the image in a throwaway session and only its text joins the
-conversation, and where no model is configured at all it falls back to local
-OCR. Fifteen commands, 842 tests, two dependencies, MIT.
+[github]: https://github.com/ashafizullah
+[website]: https://ashafizullah.com
+[linkedin]: https://www.linkedin.com/in/adamshafizullah/
+[x]: https://x.com/adamshafizullah
+[npm]: https://www.npmjs.com/~ashafizullah
 
-**[promo-video-creator](https://github.com/ashafizullah/promo-video-creator)** —
-a Claude Code skill that turns a brief into a finished promotional video.
-Remotion for the render, ElevenLabs for the voiceover.
+[eiai]: https://eiai.my.id
+[bisamandarin]: https://bisamandarin.com
+[bisamandarin-play]: https://play.google.com/store/apps/details?id=com.bisamandarin.app
+[tamuundangan]: https://tamuundangan.com
+[tamuundangan-play]: https://play.google.com/store/apps/details?id=com.tamuundangan.app
+[keruanikabar]: https://keruanikabar.com
+[keruanikabar-play]: https://play.google.com/store/apps/details?id=com.keruanikabar.app
 
-**[hermes-mimo-websearch](https://github.com/ashafizullah/hermes-mimo-websearch)** · [npm](https://www.npmjs.com/package/hermes-mimo-websearch) —
-Hermes Agent plugin for Xiaomi MiMo native web search API. Uses MiMo's
-built-in `web_search` tool for server-side search with structured results.
-Supports regular API keys (not Token Plan). MIT.
+[muslim-mods]: https://github.com/ashafizullah/claude-code-muslim-mods
+[rpt-mcp]: https://github.com/ashafizullah/rpt-mcp
+[wa-confirm]: https://github.com/ashafizullah/wa-confirm
+[dsh-telegram]: https://github.com/ashafizullah/dsh-telegram
+[cmdc-worker]: https://github.com/ashafizullah/cmdc-worker
+[jev-triage]: https://github.com/ashafizullah/jev-triage
+[hanzi-harbor]: https://github.com/ashafizullah/hanzi-harbor
+[promo-video-creator]: https://github.com/ashafizullah/promo-video-creator
+[hermes-monid]: https://github.com/ashafizullah/hermes-monid-websearch
+[hermes-tinyfish]: https://github.com/ashafizullah/hermes-tinyfish-websearch
+[hermes-mimo]: https://github.com/ashafizullah/hermes-mimo-websearch
+[hermes-deepseek]: https://github.com/ashafizullah/hermes-deepseek-websearch
+[kupas-bawang]: https://github.com/ashafizullah/kupas-bawang
 
-**[hermes-deepseek-websearch](https://github.com/ashafizullah/hermes-deepseek-websearch)** · [npm](https://www.npmjs.com/package/hermes-deepseek-websearch) —
-Hermes Agent plugin for DeepSeek native web search API. Uses DeepSeek's
-Responses API with server-side search at ~$0.0005 per query. MIT.
+<!-- Badges -->
 
-**[hermes-tinyfish-websearch](https://github.com/ashafizullah/hermes-tinyfish-websearch)** · [npm](https://www.npmjs.com/package/hermes-tinyfish-websearch) —
-Hermes Agent plugin for TinyFish native web search & fetch API. Direct connection
-to TinyFish — free search ($0/call, 30 req/min) and free fetch ($0/call, 150 URLs/min)
-with no middleman. MIT.
-
-**[hermes-monid-websearch](https://github.com/ashafizullah/hermes-monid-websearch)** · [npm](https://www.npmjs.com/package/hermes-monid-websearch) —
-Hermes Agent plugin for Monid/TinyFish free web search & fetch API. Uses Monid's
-agent infrastructure with TinyFish for 100% free search and page extraction —
-no per-call charges, just a free Monid API key. MIT.
-
-<p align="right"><sub>09:51 ✓✓</sub></p>
-
-> 💬 **What do you work with?** <sub>09:52</sub>
-
-| | |
-| --- | --- |
-| **Backend** | Go · Bun / Hono · Node.js · Laravel · C#/.NET · Python |
-| **Web** | TypeScript · Vue · PrimeVue |
-| **Mobile & desktop** | Flutter · React Native / Expo |
-| **Data & infra** | PostgreSQL · Drizzle · Docker · GitHub Actions |
-| **AI** | Gemini · realtime voice · Claude Code skills · DeepSeek Harness plugins |
-
-On GitHub since 2017, across whichever language the problem happened to need.
-
-<p align="right"><sub>09:52 ✓✓</sub></p>
-
-> 💬 **Where can I find you?** <sub>09:53</sub>
-
-Writing at [ashafizullah.com](https://ashafizullah.com) · Reach me on
-[LinkedIn](https://www.linkedin.com/in/adamshafizullah/)
-
-<p align="right"><sub>09:53 ✓✓</sub></p>
-
-<p align="center"><sub><i>Adam is typing…</i></sub></p>
+[badge-go]: https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white
+[badge-ts]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+[badge-vue]: https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white
+[badge-laravel]: https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white
+[badge-dotnet]: https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white
+[badge-python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+[badge-flutter]: https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white
+[badge-rn]: https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black
+[badge-pg]: https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
+[badge-claude]: https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white
+[badge-web]: https://img.shields.io/badge/-ashafizullah.com-222225?style=flat-square&logo=googlechrome&logoColor=white
+[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODIgMzgyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExOC4yMDcgMzI5Ljg0NGMwIDUuNTU0LTQuNTAyIDEwLjA1Ni0xMC4wNTYgMTAuMDU2SDY1LjM0NWMtNS41NTQgMC0xMC4wNTYtNC41MDItMTAuMDU2LTEwLjA1NlYxNTAuNDAzYzAtNS41NTQgNC41MDItMTAuMDU2IDEwLjA1Ni0xMC4wNTZoNDIuODA2YzUuNTU0IDAgMTAuMDU2IDQuNTAyIDEwLjA1NiAxMC4wNTZWMzI5Ljg0NHpNODYuNzQ4IDEyMy40MzJjLTIyLjQ1OSAwLTQwLjY2Ni0xOC4yMDctNDAuNjY2LTQwLjY2NlM2NC4yODkgNDIuMSA4Ni43NDggNDIuMXM0MC42NjYgMTguMjA3IDQwLjY2NiA0MC42NjYtMTguMjA3IDQwLjY2Ni00MC42NjYgNDAuNjY2ek0zNDEuOTEgMzMwLjY1NGMwIDUuMTA2LTQuMTQgOS4yNDYtOS4yNDYgOS4yNDZIMjg2LjczYy01LjEwNiAwLTkuMjQ2LTQuMTQtOS4yNDYtOS4yNDZ2LTg0LjE2OGMwLTEyLjU1NiAzLjY4My01NS4wMjEtMzIuODEzLTU1LjAyMS0yOC4zMDkgMC0zNC4wNTEgMjkuMDY2LTM1LjIwNCA0Mi4xMXY5Ny4wNzljMCA1LjEwNi00LjEzOSA5LjI0Ni05LjI0NiA5LjI0NmgtNDQuNDI2Yy01LjEwNiAwLTkuMjQ2LTQuMTQtOS4yNDYtOS4yNDZWMTQ5LjU5M2MwLTUuMTA2IDQuMTQtOS4yNDYgOS4yNDYtOS4yNDZoNDQuNDI2YzUuMTA2IDAgOS4yNDYgNC4xNCA5LjI0NiA5LjI0NnYxNS42NTVjMTAuNDk3LTE1Ljc1MyAyNi4wOTctMjcuOTEyIDU5LjMxMi0yNy45MTIgNzMuNTUyIDAgNzMuMTMxIDY4LjcxNiA3My4xMzEgMTA2LjQ3MkwzNDEuOTEgMzMwLjY1NHoiLz48L3N2Zz4K
+[badge-x]: https://img.shields.io/badge/-@adamshafizullah-000000?style=flat-square&logo=x&logoColor=white
+[badge-npm]: https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white
+[badge-gh]: https://img.shields.io/badge/-GitHub-232925?style=flat-square&logo=github&logoColor=white

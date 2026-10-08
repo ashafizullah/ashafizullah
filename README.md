@@ -27,6 +27,7 @@
 ## Open source
 
 - 🕌 **[claude-code-muslim-mods][muslim-mods]** – Prayer times with Dhuha and Tahajud, adhkar, a daily ayah and a tasbih for Claude Code
+- 📸 **[KlikSnap][kliksnap]** – Free, lightweight screenshot tool for macOS and Windows: capture, annotate, OCR and QR scan, no account and no cloud upload
 - 📊 **[rpt-mcp][rpt-mcp]** – MCP server that lets AI assistants read and edit SAP Crystal Reports `.rpt` files
 - ✅ **[wa-confirm][wa-confirm]** – Verify a WhatsApp number belongs to your user without ever messaging a stranger
 - ✈️ **[dsh-telegram][dsh-telegram]** – Run a DeepSeek Harness coding agent from Telegram, with rich markdown and approval buttons
@@ -71,6 +72,7 @@
 [keruanikabar-play]: https://play.google.com/store/apps/details?id=com.keruanikabar.app
 
 [muslim-mods]: https://github.com/ashafizullah/claude-code-muslim-mods
+[kliksnap]: https://github.com/ashafizullah/kliksnap
 [rpt-mcp]: https://github.com/ashafizullah/rpt-mcp
 [wa-confirm]: https://github.com/ashafizullah/wa-confirm
 [dsh-telegram]: https://github.com/ashafizullah/dsh-telegram

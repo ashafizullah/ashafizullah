@@ -27,7 +27,7 @@
 ## Open source
 
 - 🕌 **[claude-code-muslim-mods][muslim-mods]** – Prayer times with Dhuha and Tahajud, adhkar, a daily ayah and a tasbih for Claude Code
-- 🗄️ **[Tablory][tablory]** – Free, native database manager for macOS and Windows: PostgreSQL, MySQL, SQL Server, SQLite, Redis and MongoDB, with SSH tunnels and inline editing
+- 🗄️ **[KlikDB][klikdb]** – Free, native database manager for macOS and Windows: PostgreSQL, MySQL, SQL Server, SQLite, Redis and MongoDB, with SSH tunnels and inline editing
 - 📸 **[KlikSnap][kliksnap]** – Free, lightweight screenshot tool for macOS and Windows: capture, annotate, OCR and QR scan, no account and no cloud upload
 - 🎞️ **[KlikReel][klikreel]** – Free desktop app that turns a prompt and your codebase into a narrated promo video: storyboard, AI voiceover and animated scenes, exported to MP4
 - 🎨 **[KlikDesign][klikdesign]** – Free, Canva-style poster editor with AI: prompt a poster or design from your codebase, then refine it on the canvas or by chat
@@ -75,7 +75,7 @@
 [keruanikabar-play]: https://play.google.com/store/apps/details?id=com.keruanikabar.app
 
 [muslim-mods]: https://github.com/ashafizullah/claude-code-muslim-mods
-[tablory]: https://github.com/ashafizullah/tablory
+[klikdb]: https://github.com/ashafizullah/klikdb
 [kliksnap]: https://github.com/ashafizullah/kliksnap
 [klikreel]: https://github.com/ashafizullah/klikreel
 [klikdesign]: https://github.com/ashafizullah/klikdesign

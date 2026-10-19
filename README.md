@@ -29,6 +29,8 @@
 - 🕌 **[claude-code-muslim-mods][muslim-mods]** – Prayer times with Dhuha and Tahajud, adhkar, a daily ayah and a tasbih for Claude Code
 - 🗄️ **[Tablory][tablory]** – Free, native database manager for macOS and Windows: PostgreSQL, MySQL, SQL Server, SQLite, Redis and MongoDB, with SSH tunnels and inline editing
 - 📸 **[KlikSnap][kliksnap]** – Free, lightweight screenshot tool for macOS and Windows: capture, annotate, OCR and QR scan, no account and no cloud upload
+- 🎞️ **[KlikReel][klikreel]** – Free desktop app that turns a prompt and your codebase into a narrated promo video: storyboard, AI voiceover and animated scenes, exported to MP4
+- 🎨 **[KlikDesign][klikdesign]** – Free, Canva-style poster editor with AI: prompt a poster or design from your codebase, then refine it on the canvas or by chat
 - 📊 **[rpt-mcp][rpt-mcp]** – MCP server that lets AI assistants read and edit SAP Crystal Reports `.rpt` files
 - ✅ **[wa-confirm][wa-confirm]** – Verify a WhatsApp number belongs to your user without ever messaging a stranger
 - ✈️ **[dsh-telegram][dsh-telegram]** – Run a DeepSeek Harness coding agent from Telegram, with rich markdown and approval buttons
@@ -75,6 +77,8 @@
 [muslim-mods]: https://github.com/ashafizullah/claude-code-muslim-mods
 [tablory]: https://github.com/ashafizullah/tablory
 [kliksnap]: https://github.com/ashafizullah/kliksnap
+[klikreel]: https://github.com/ashafizullah/klikreel
+[klikdesign]: https://github.com/ashafizullah/klikdesign
 [rpt-mcp]: https://github.com/ashafizullah/rpt-mcp
 [wa-confirm]: https://github.com/ashafizullah/wa-confirm
 [dsh-telegram]: https://github.com/ashafizullah/dsh-telegram

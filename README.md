@@ -32,6 +32,7 @@
 - 🎞️ **[KlikReel][klikreel]** – Free desktop app that turns a prompt and your codebase into a narrated promo video: storyboard, AI voiceover and animated scenes, exported to MP4
 - 🎨 **[KlikDesign][klikdesign]** – Free, Canva-style poster editor with AI: prompt a poster or design from your codebase, then refine it on the canvas or by chat
 - ⌚ **[KlikBand][klikband]** – Free quick app for Xiaomi Smart Band 9 (may also work on other Xiaomi Vela bands such as Band 10, untested): prayer times, guided dhikr, tasbih, Hijri date, Islamic holidays and a day counter, fully offline
+- 🚗 **[KlikDash][klikdash]** – Free, lightweight launcher for Android car headunits: an instrument-panel home screen at ~0% idle CPU, offline prayer times from GPS, CPU temperature and an offline Quran with Mishary Alafasy recitation
 - 📊 **[rpt-mcp][rpt-mcp]** – MCP server that lets AI assistants read and edit SAP Crystal Reports `.rpt` files
 - ✅ **[wa-confirm][wa-confirm]** – Verify a WhatsApp number belongs to your user without ever messaging a stranger
 - ✈️ **[dsh-telegram][dsh-telegram]** – Run a DeepSeek Harness coding agent from Telegram, with rich markdown and approval buttons
@@ -81,6 +82,7 @@
 [klikreel]: https://github.com/ashafizullah/klikreel
 [klikdesign]: https://github.com/ashafizullah/klikdesign
 [klikband]: https://github.com/ashafizullah/klikband
+[klikdash]: https://github.com/ashafizullah/klikdash
 [rpt-mcp]: https://github.com/ashafizullah/rpt-mcp
 [wa-confirm]: https://github.com/ashafizullah/wa-confirm
 [dsh-telegram]: https://github.com/ashafizullah/dsh-telegram

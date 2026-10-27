@@ -31,6 +31,7 @@
 - 📸 **[KlikSnap][kliksnap]** – Free, lightweight screenshot tool for macOS and Windows: capture, annotate, OCR and QR scan, no account and no cloud upload
 - 🎞️ **[KlikReel][klikreel]** – Free desktop app that turns a prompt and your codebase into a narrated promo video: storyboard, AI voiceover and animated scenes, exported to MP4
 - 🎨 **[KlikDesign][klikdesign]** – Free, Canva-style poster editor with AI: prompt a poster or design from your codebase, then refine it on the canvas or by chat
+- 📄 **[KlikPaper][klikpaper]** – Free, offline PDF tool for macOS, Windows and Linux: organize, compress, annotate, sign and protect PDFs, with an MCP server so Claude Code, Codex and other agents can work on them
 - ⌚ **[KlikBand][klikband]** – Free quick app for Xiaomi Smart Band 9 (may also work on other Xiaomi Vela bands such as Band 10, untested): prayer times, guided dhikr, tasbih, Hijri date, Islamic holidays and a day counter, fully offline
 - 🚗 **[KlikDash][klikdash]** – Free, lightweight launcher for Android car headunits: an instrument-panel home screen at ~0% idle CPU, offline prayer times from GPS, CPU temperature and an offline Quran with Mishary Alafasy recitation
 - 📊 **[rpt-mcp][rpt-mcp]** – MCP server that lets AI assistants read and edit SAP Crystal Reports `.rpt` files
@@ -81,6 +82,7 @@
 [kliksnap]: https://github.com/ashafizullah/kliksnap
 [klikreel]: https://github.com/ashafizullah/klikreel
 [klikdesign]: https://github.com/ashafizullah/klikdesign
+[klikpaper]: https://github.com/ashafizullah/klikpaper
 [klikband]: https://github.com/ashafizullah/klikband
 [klikdash]: https://github.com/ashafizullah/klikdash
 [rpt-mcp]: https://github.com/ashafizullah/rpt-mcp
